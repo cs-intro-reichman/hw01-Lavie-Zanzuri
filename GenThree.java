@@ -4,6 +4,7 @@
  */
 public class GenThree {
 	public static void main(String[] args) {
+		// Put your code here
 		int a = Integer.parseInt(args[0]);
 		int b = Integer.parseInt(args[1]);
 		int num1 ,num2 ,num3 ,min = 0 ;
