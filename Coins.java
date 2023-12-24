@@ -5,7 +5,7 @@
 public class Coins {
 	//Put your code here
 	public static void main(String[] args) {
-		int a=Integer.parseInt(args[0]);
+		int a = Integer.parseInt(args[0]);
 		int cent,quarter;
 		quarter = a / 25;
 		cent = a % 25;
